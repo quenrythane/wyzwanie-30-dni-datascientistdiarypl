@@ -1,5 +1,5 @@
 # wyzwanie 30 dni datascientistdiarypl
 
-Wspólnie przerabiamy zadania z wyzwania u <a src="https://www.instagram.com/datascientistdiarypl/">Sandry Instagrama</a>: 30 days of coding
+Wspólnie przerabiamy zadania z wyzwania z [Sandry Instagrama](https://www.instagram.com/datascientistdiarypl/): 30 days of coding
 
-Wspólne przygody są nagrywane i ogólnodostępnę na <a src="">YouTube</a>
+Wspólne przygody są nagrywane i ogólnodostępne do obejrzenia na [YouTube](https://www.youtube.com/playlist?list=PLS5M7N6VYVlYTXAq6lkrybd2ZqMP8iiOU)
